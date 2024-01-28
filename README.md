@@ -1,5 +1,7 @@
 # Assignment-2-Deep-Learning-1
 
-Code from Assignment 2, Deep Learning 1 at University of Amsterdam
-
 Transfer Learning for CNNs, Visual Prompting (CLIP), Graph Neural Network
+
+Code from Assignment 3 in Deep Learning 1 course @ University of Amsterdam
+
+
